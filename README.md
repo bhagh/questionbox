@@ -7,3 +7,4 @@ An application where people can crowdsource their questions and get answers with
 * Registered users can add answers to any question
 * The question's creator can mark answers as correct
 * Registered users can "star" questions and answers they like
+* Users can login using their Google account
